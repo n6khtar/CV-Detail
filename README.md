@@ -2,11 +2,7 @@
 
 **Current Professional**
 
-VIASAT Inc. GmbH Germany
-
-October 2024 – Present
-
-Offshore VSAT Field Engineer
+VIASAT Inc. GmbH Germany | October 2024 – Present | Offshore VSAT Field Engineer
 
 Key Responsibilities:
 - Travel within Germany, Europe and United Kingdom for Offshore Oil & Gas rig field support.
@@ -26,9 +22,7 @@ Key Responsibilities:
 
 **Professional Summary**
 
-ANUVU - EMC GmbH Raisting, Germany
-June 2023 – September 2024
-Maritime VSAT Field Engineer
+ANUVU - EMC GmbH Raisting, Germany | June 2023 – September 2024 | Maritime VSAT Field Engineer
 
 Key Responsibilities:
 - Travel within Germany, Europe, United Kingdom, Middle East for Maritime Field Support.
@@ -50,9 +44,7 @@ Key Responsibilities:
 - Equipment Skills: Intellian v240M VSAT (Tri band C, Ku, Ka), Cobham SeaTel 2400 VSAT (Tri band C, Ku, Ka), TVRO & VSAT (Dual band C, Ku), 9711 IMA VSAT Marine Antenna System, Advantech, Codan, iDirect (X7, iQ200 Series, Newtec).
 - Certificate/Training: Cobham (Sea Tel, Sailor), Intellian, Global VSAT Forum (GVF), KnowBe4 Security Awareness Training, Anuvu Academy Trainings.
 
-ANUVU | EMC GmbH Raisting, Germany
-June 2022 – May 2023
-NOC Engineer L1
+ANUVU - EMC GmbH Raisting, Germany | June 2022 – May 2023 | NOC Engineer L1
 
 Key Responsibilities:
 - To monitor 24/7 Network region sites (US, UK, Germany, Europe & Middle East) and escalate, Graph of Sites by NMS software.
@@ -63,18 +55,14 @@ Key Responsibilities:
 - Communicate & configure COBHAM (Sea Tel, SAILOR), Intellian, and Satellite Modem iDirect (X7, NEWTEC, iQ200 Series) and REMOTE end modem with the help of FE and Customer.
 - Monitoring Software Skills: Salesforce, SOLARWINDS, Network Tool, and Ship Tracker.
 
-Inter-Prompt (IP) Global Freelance, Germany
-January 2019 – December 2021
-Freelance Engineer – Field Support (IT)
+Inter-Prompt (IP) Global Freelance, Germany | January 2019 – December 2021 | Freelance Engineer – Field Support (IT)
 
 Key Responsibilities:
 - As a Field Support, I was able to assist practically all of Germany's cities. Unpacking and installing equipment on the rack.
 - To turn on the rack and the equipment. Checking and configuring routers, switches, and servers.
 - To give detailed site report and access to operator.
 
-Bremer Institut für Produktion und Logistik (BIBA) GmbH, Bremen Germany
-March 2021 – July 2021
-Research Assistant
+Bremer Institut für Produktion und Logistik (BIBA) GmbH, Bremen Germany | March 2021 – July 2021 | Research Assistant
 
 Key Responsibilities:
 - Project ACROBA, AI controlled cognitive robot platform for agile production environments.
@@ -82,9 +70,7 @@ Key Responsibilities:
 - Docker, Container, Ubuntu and Visual Studio Code used for data managing and development.
 - Support for software development with help of JAVA, MySQL, IntelliJ, Eclipse, Git and PrimeFaces framework.
 
-Institute of Automation (IAT) - Universität Bremen, Germany
-October – November 2020
-Research Assistant
+Institute of Automation (IAT) - Universität Bremen, Germany | October – November 2020 | Research Assistant
 
 Key Responsibilities:
 - EU-H2020 project SMART2 – Advanced in targeted obstacle and track intrusion detection system for smart automation of rail transport.
@@ -92,35 +78,27 @@ Key Responsibilities:
 - Within the SMART2 pro-particular, IAT was developing deep learning-based methods for detection of obstacles on and near the rail tracks.
 - Was working on the annotation of images for the purpose of training of developed deep learning models using online labeling tool for hasty.ai.
 
-Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI) GmbH, Bremen Germany
-October 2019 – April 2020
-Research Assistant
+Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI) GmbH, Bremen Germany | October 2019 – April 2020 | Research Assistant
 
 Key Responsibilities:
 - Evaluation of AI methods, preparing data sets for analysis and visualize data on Vega Editor & Elastic-search (Kibana).
 - Worked on BMWi-funded project "SHARC" (EnEff: Bremerhaven - Smart Concepts for Sustainable Energy in Ports): To clean raw data and performed a quality control of data. Additionally, created time series and developed solutions to map and visualize data from the container port of Bremerhaven.
 - Worked on BMWi-funded project "FUSE" (Future Smart Energy): To work on D3.js, a Javascript library for interactive data visualization.
 
-encoway GmbH, Bremen Germany
-November 2018 – July 2019
-Research Assistant
+encoway GmbH, Bremen Germany | November 2018 – July 2019 | Research Assistant
 
 Key Responsibilities:
 - Evaluation of AI methods in the field of Business Intelligence (BI).
 - Support in the software development of BI integration in the CPQ environment.
 - Preparing data sets for analysis and visualize data on Vega Editor & Elastic-search (Kibana).
 
-encoway GmbH, Bremen Germany
-August – September 2018, Internship
+encoway GmbH, Bremen Germany | August – September 2018 |  Internship
 
 Department: Artificial Intelligence (AI) / Machine Learning (ML)
 
-NETSAT (Private) Limited, Pakistan
-January 2011 – March 2018
+NETSAT (Private) Limited, Pakistan | January 2011 – March 2018
 
-Project: Pakistan Civil Aviation Authority, PCAA – Nationwide Connectivity
-January 2015 – March 2018
-RF Engineer
+Project: Pakistan Civil Aviation Authority, PCAA – Nationwide Connectivity | January 2015 – March 2018 | RF Engineer
 
 Key Responsibilities:
 - Last mile wireless link deployment for business class internet & data connectivity to PCAA, P2P & P2MP & MPLS-WAN deployment & maintenance SLA. High quality & efficient deployment of wireless networks. Manage updated IP address scheme blueprints.
@@ -144,9 +122,7 @@ Key Responsibilities:
   - Huawei RTN-800 - 3G/4G LTE
   - Memotec – NetPerformer (SDM9230)
 
-Project: SUPARCO – 7.3m Ku & C Band Antenna Installation for Geo-Location System
-September – December 2014
-RF & VSAT Engineer
+Project: SUPARCO – 7.3m Ku & C Band Antenna Installation for Geo-Location System | September – December 2014 | RF & VSAT Engineer
 
 Key Responsibilities:
 - Installation GD SatCom equipment 7.3m Earth Station, Ku & C band with GD SatCom team.
@@ -167,9 +143,7 @@ Key Responsibilities:
 - Achieved: Satellite Communication Certificate from GENERAL DYNAMICS SATCOM Technologies, USA - Nov 2014
   - About Training: Completed hands-on training course for Operation, Maintenance, and M&C of Pakistan Space & Upper Atmosphere Research Commission’s (SUPARCO) 7.3m Ku and C-Band Antenna Systems.
 
-Project: Pakistan Telecommunication Company Limited (PTCL) – Digital Radio Systems (DRS) Connectivity
-January 2013 – August 2014
-RF Engineer
+Project: Pakistan Telecommunication Company Limited (PTCL) – Digital Radio Systems (DRS) Connectivity | January 2013 – August 2014 | RF Engineer
 
 Key Responsibilities:
 - Last mile wireless link deployment for business class internet connectivity to different organization, P2P & P2MP wireless MAN deployment & maintenance SLA.
@@ -194,9 +168,7 @@ Key Responsibilities:
   - Motorola – Cambium Networks (PTP 100, 200, 450, 500, 600, 650-S/L)
   - UbiQuity Networks Inc.
 
-Project: Private TV Channel – Digital Satellite News Gathering (DSNG)
-March – May 2013
-RF Engineer
+Project: Private TV Channel – Digital Satellite News Gathering (DSNG) | March – May 2013 | RF Engineer
 
 Key Responsibilities:
 - Responsible for Live Telecast of Capital TV and the entire live event via Digital Satellite News Gathering (DSNG VAN)
@@ -220,9 +192,7 @@ Key Responsibilities:
   - Dolby-E audio
 - Hands on RF equipment: Encoders, Up/Down-Converters, IRD, Spectrum Analyzer, Tandberg, Scopus, Mitec, Tiernan
 
-Project: ZONG China Mobile Pakistan – VSAT (Region South)
-August 2011 – December 2012
-Network Operation Center (NOC) Engineer
+Project: ZONG China Mobile Pakistan – VSAT (Region South) | August 2011 – December 2012 | Network Operation Center (NOC) Engineer
 
 Key Responsibilities:
 - To monitor 24/7 Network of ZONG (South) region sites and escalate, Graph of Sites by using PRTG software.
