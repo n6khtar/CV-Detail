@@ -3,7 +3,9 @@
 **Current Professional**
 
 VIASAT Inc. GmbH Germany
+
 October 2024 – Present
+
 Offshore VSAT Field Engineer
 
 Key Responsibilities:
