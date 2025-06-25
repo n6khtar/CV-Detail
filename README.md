@@ -2,7 +2,7 @@
 
 **Current Professional**
 
-VIASAT Inc. GmbH Germany | October 2024 – Present | Offshore VSAT Field Engineer
+VIASAT Inc. GmbH Germany | October 2024 – June 2025 | Offshore VSAT Field Engineer
 
 Key Responsibilities:
 - Travel within Germany, Europe and United Kingdom for Offshore Oil & Gas rig field support.
@@ -98,7 +98,7 @@ Department: Artificial Intelligence (AI) / Machine Learning (ML)
 
 NETSAT (Private) Limited, Pakistan | January 2011 – March 2018
 
-Project: Pakistan Civil Aviation Authority, PCAA – Nationwide Connectivity | January 2015 – March 2018 | RF Engineer
+Project: Pakistan Civil Aviation Authority, PCAA – Nationwide Connectivity | January 2015 – March 2018 | RF & VSAT Engineer
 
 Key Responsibilities:
 - Last mile wireless link deployment for business class internet & data connectivity to PCAA, P2P & P2MP & MPLS-WAN deployment & maintenance SLA. High quality & efficient deployment of wireless networks. Manage updated IP address scheme blueprints.
@@ -143,7 +143,7 @@ Key Responsibilities:
 - Achieved: Satellite Communication Certificate from GENERAL DYNAMICS SATCOM Technologies, USA - Nov 2014
   - About Training: Completed hands-on training course for Operation, Maintenance, and M&C of Pakistan Space & Upper Atmosphere Research Commission’s (SUPARCO) 7.3m Ku and C-Band Antenna Systems.
 
-Project: Pakistan Telecommunication Company Limited (PTCL) – Digital Radio Systems (DRS) Connectivity | January 2013 – August 2014 | RF Engineer
+Project: Pakistan Telecommunication Company Limited (PTCL) – Digital Radio Systems (DRS) Connectivity | January 2013 – August 2014 | RF & VSAT Engineer
 
 Key Responsibilities:
 - Last mile wireless link deployment for business class internet connectivity to different organization, P2P & P2MP wireless MAN deployment & maintenance SLA.
@@ -168,7 +168,7 @@ Key Responsibilities:
   - Motorola – Cambium Networks (PTP 100, 200, 450, 500, 600, 650-S/L)
   - UbiQuity Networks Inc.
 
-Project: Private TV Channel – Digital Satellite News Gathering (DSNG) | March – May 2013 | RF Engineer
+Project: Private TV Channel – Digital Satellite News Gathering (DSNG) | March – May 2013 | RF & VSAT Engineer
 
 Key Responsibilities:
 - Responsible for Live Telecast of Capital TV and the entire live event via Digital Satellite News Gathering (DSNG VAN)
