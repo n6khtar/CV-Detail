@@ -2,6 +2,15 @@
 
 **Current Professional**
 
+Agentur für Arbeit (Jobcenter) Aichach, Germany
+July 2025 – Present, Looking for a job
+
+Deutsche Angestellten-Akademie GmbH, DAA Augsburg, German Language Course B2 Level, November 2025 – Present
+
+Masterschool, Berlin, Software Engineering Bootcamp (Cloud Computing) Course, November 2025 - Present
+
+**Professional Summary**
+
 VIASAT Inc. GmbH Germany | October 2024 – June 2025 | Offshore VSAT Field Engineer
 
 Key Responsibilities:
@@ -19,8 +28,6 @@ Key Responsibilities:
 - Installation and replacement, Ku & C band BUC (25W, 50W, 125W, 200W, 250W, 400W), balancing the antennas.
 - Equipment Skills: Eutelsat Kymeta OneWeb, Eutelsat Intellian OneWeb, Intellian v240M VSAT (Tri band C, Ku, Ka), Cobham SeaTel 2400 VSAT (Tri band C, Ku, Ka), VSAT (Dual band C, Ku), 9711 IMA VSAT Marine Antenna System, Advantech, Codan, iDirect (X7, iQ200 Series, Newtec).
 - Certificate/Training: Medical Fitness for Petroleum Activities Offshore, Offshore Health Certificate, Basic Safety Training including HUET with Emergency Breathing System (EBS) from RelyOnNutec
-
-**Professional Summary**
 
 ANUVU - EMC GmbH Raisting, Germany | June 2023 – September 2024 | Maritime VSAT Field Engineer
 
@@ -44,7 +51,7 @@ Key Responsibilities:
 - Equipment Skills: Intellian v240M VSAT (Tri band C, Ku, Ka), Cobham SeaTel 2400 VSAT (Tri band C, Ku, Ka), TVRO & VSAT (Dual band C, Ku), 9711 IMA VSAT Marine Antenna System, Advantech, Codan, iDirect (X7, iQ200 Series, Newtec).
 - Certificate/Training: Cobham (Sea Tel, Sailor), Intellian, Global VSAT Forum (GVF), KnowBe4 Security Awareness Training, Anuvu Academy Trainings.
 
-ANUVU - EMC GmbH Raisting, Germany | June 2022 – May 2023 | NOC Engineer L1
+ANUVU - EMC GmbH Raisting, Germany | June 2022 – May 2023 | NOC Engineer
 
 Key Responsibilities:
 - To monitor 24/7 Network region sites (US, UK, Germany, Europe & Middle East) and escalate, Graph of Sites by NMS software.
