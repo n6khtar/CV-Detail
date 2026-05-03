@@ -2,6 +2,21 @@
 
 ## Professional Summary
 
+### Masterschool Berlin, Germany | Nov 2025 - May 2026 | Training Program, Cloud/DevOps Engineer
+
+#### Project: Cloud Engineering Program (320h Internship)
+- Developed and deployed containerized applications using Docker and AWS Lambda.
+- Built and managed scalable infrastructure using Terraform (IaC) on AWS (VPC, EC2, RDS).
+- Designed relational databases using SQL and integrated them with Flask back-ends.
+- Automated monitoring and logging workflows using CloudWatch.
+- GitHub: https://github.com/n6khtar/AWS_Grocery.git
+#### Python Hackathon:
+- Problem Solving & Design: From ideation and brainstorming to product planning.
+- Project Planning: Structuring milestones and collaborating with teammates.
+- Python Development: Building functional applications with API integration.
+- Presentation: Communicating ideas and applying feedback.
+- GitHub: https://github.com/n6khtar/Geo-Quiz_By_Many-Minds.git
+
 ### VIASAT Inc. GmbH Germany | Oct 2024 – Jun 2025 | Offshore VSAT Field Engineer
 
 Key Responsibilities:
