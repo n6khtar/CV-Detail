@@ -1,8 +1,8 @@
 # CV-Detail
 
-## Professional Summary
+## Education
 
-### Masterschool Berlin, Germany | Nov 2025 - May 2026 | Training Program, Cloud/DevOps Engineer
+### Masterschool Germany | May 2026 | Training Program, Cloud/DevOps Engineer
 
 #### Project: Cloud Engineering Program (320h Internship)
 - Developed and deployed containerized applications using Docker and AWS Lambda.
@@ -16,6 +16,12 @@
 - Python Development: Building functional applications with API integration.
 - Presentation: Communicating ideas and applying feedback.
 - GitHub: https://github.com/n6khtar/Geo-Quiz_By_Many-Minds.git
+
+### University of Bremen | Dec 2022 | Master of Science, Communication & Information Technology
+
+### ILMA University (formerly, IBT) | Apr 2021 | Bachelor of Science, Telecommunication
+
+## Experience
 
 ### VIASAT Inc. GmbH Germany | Oct 2024 – Jun 2025 | Offshore VSAT Field Engineer
 
